@@ -1,0 +1,134 @@
+
+
+
+
+
+
+_________SEÇÃO 01- Introdução ao Curso_________
+
+
+	***Aula 01- Seja bem vindo!!!***
+
+	***Aula 02- Material de apoio***
+
+	***Aula 03- Sobre a avaliação do curso***
+
+	***Aula 04- Sobre a seção "Perguntas e Respostas"***
+
+	***Aula 05- Sobre o certificado de conclusão do curso***
+
+
+
+
+
+
+
+
+________SEÇÃO 02- Introdução a redes__________
+
+
+	***Aula 06-O que são Redes?***
+
+		Uma rede serve para conectar dois pontos, sendo segura, confiável e com o menor atraso possível.
+		Objetivos de uma rede:
+		1- Acesso a dados, ex.: Arquivos;
+		2- Compartilhamento de recursos, ex.: Internet, impressora;
+		3- Administração centralizada, ex.: usuários e permissões;
+		
+
+	***Aula 07-Classificação de redes quanto à abrangência***
+
+		Nanoredes- máquinas da nanotecnologia que podem se comunicar umas com as outras, a comunicação pode ser feita de forma molecular ou utilizando radiofrequência;
+
+		NFC (Near Field Communication- Comunicação de campo próximo)- Utiliza RFID (normalmente) cartões de acesso. 
+ 	
+		BAN (Body Area Network- Rede de área corporal)- sensores que monitoram o corpo humano;
+			
+		PAN (Personal Area Network- Rede de área pessal)- Bluetooth
+
+		WPAN (Wireless Personal Area Network- Rede de área pessoal sem fio) 
+		
+		LAN (Local Area Network)
+
+		WLAN (Wireless Local Area Network)
+		
+		MAN (Metropolitan Area Network)
+
+		Cloud (Nuvem)
+	
+
+
+	***Aula 08- Internet, Intranet, Extranet***
+
+
+		Internet- Rede Pública;
+		Intranet- Rede Local Privada
+		Extranet- Acesso Remoto a uma rede privada
+		
+
+
+
+	***Aula 09-Computação centralizada e serviço de terminal***
+
+	
+		Terminal Burro = apenas exibe informações, não processa.
+
+	***Aula 10- Computação distribuída: computação em nuvem***
+	
+
+	***Aula 11-Computação distribuída: Redes ponto a ponto***
+	
+
+	***Aula 12- Computação distribuída: Computação em nuvem***
+	
+
+	***Aula 13- Computação distribuída: computação em nuvem***
+	
+
+	***Aula 14- Computação cooperativa (paralelismo): cluster e grade***
+	
+
+	***Aula 15- Proxy direto***
+	
+
+	***Aula 16- Proxy reverso***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+	***Aula -***
+
+		
