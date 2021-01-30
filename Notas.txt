@@ -88,12 +88,25 @@ ________SEÇÃO 02- Introdução a redes__________
 	***Aula 14- Computação cooperativa (paralelismo): cluster e grade***
 	
 
-	***Aula 15- Proxy direto***
-	
 
-	***Aula 16- Proxy reverso***
-	***Aula -***
-	***Aula -***
+
+
+
+________SEÇÃO 04- Transmissão de Dados__________
+
+
+	***Aula 46- Modos de transmissão***
+
+		Modo Simplex      transmissor -----> receptor
+		Modo Half Duplex  transmissor<-----> receptor, o receptor pode se tornar um transmissor, porém só há um único caminho para a comunicação. Ex.: Walk talk
+		Modo Full Duplex  a transmissão pode ser feita ao mesmo tempo em ambas direções.
+
+
+
+	***Aula 47- Meio e canal***
+
+		Meio, também chamado de mídia, Ex.: ar, cabos.
+		O meio pode ser dividido em várias frequências (canais)
 	***Aula -***
 	***Aula -***
 	***Aula -***
